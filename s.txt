@@ -503,3 +503,13 @@
 0.0000000001-0.01 https://steamcommunity.com/market/listings/730/StatTrak™ AWP | Atheris (Factory New)
 0.0000000001-0.01 https://steamcommunity.com/market/listings/730/USP-S | Ancient Visions (Factory New)
 0.0000000001-0.01 https://steamcommunity.com/market/listings/730/MP9 | Hot Rod (Factory New)
+0.15-0.18 https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Redline%20%28Field-Tested%29
+0.07-0.08 https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Asiimov%20%28Minimal%20Wear%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/MAG-7%20%7C%20Navy%20Sheen%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Nova%20%7C%20Mandrel%20%28Factory%20New%29
+0.97-0.999999 https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Off%20World%20(Battle-Scarred)
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Nova%20%7C%20Candy%20Apple%20(Factory%20New)
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/UMP-45%20%7C%20Carbon%20Fiber%20(Factory%20New)
+0.76-0.83 https://steamcommunity.com/market/listings/730/AWP%20%7C%20Acheron%20(Battle-Scarred)
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/Five-SeveN%20%7C%20Coolant%20%28Factory%20New%29
+0.000000001-0.01 https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Mainframe%20%28Factory%20New%29
